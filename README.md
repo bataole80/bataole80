@@ -1,4 +1,9 @@
-### Hi there 👋
+#### Hi all,
+#### my name is Oleg. I am currently learning Python as part of the Cogrammar course.
+#### I am planning to use the new skills in further projects.
+#### I am particularly interested in the Dev Ops area. 
+
+
 
 <!--
 **bataole80/bataole80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -11,15 +11,14 @@
 ## About me
 ### ***My name is Oleg. I am learning Python for developing, testing, maintaining applications.***
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="200" height="200" />
-
 ## My fields of interests
 
-- Python programming
+- Python programming 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="200" height="200" />
 - DevOps:
    - application monitoring practice
    - manual task automation
-
+  <img src="https://previews.123rf.com/images/vectorhome/vectorhome1907/vectorhome190700579/127615654-devops-icon-vector.jpg" width="200" height="200" />
 
 ## Purpose of the repository
 

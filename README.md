@@ -13,11 +13,12 @@
 
 ## My fields of interests
 
-- Python programming 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="200" height="200" />
+- Python programming
 - DevOps:
    - application monitoring practice
    - manual task automation
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="200" height="200" />
   <img src="https://previews.123rf.com/images/vectorhome/vectorhome1907/vectorhome190700579/127615654-devops-icon-vector.jpg" width="200" height="200" />
 
 ## Purpose of the repository

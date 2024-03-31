@@ -11,7 +11,7 @@
 ## About me
 ### ***My name is Oleg. I am learning Python for developing, testing, maintaining applications.***
 
-![Image of Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="200" height="200" />
 
 ## My fields of interests
 

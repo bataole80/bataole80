@@ -21,10 +21,16 @@
 
 ***This repository represents the current progress of my Python learning activities, tasks and projects*** 
 
+## Current tasks
+- [x]: create a README.md file which will be an introduction to the GitHub repository (technical portfolio)
+- [ ]: programming with user-defined functions task
+- [ ]: handling strings, lists and dictionaries task
+
 ## 2024 goals 
 
 - finish the software engineering course
 - apply the new knowledge in work
+
 
 > [!NOTE]
 > This is for Part 2: Practical Task 2

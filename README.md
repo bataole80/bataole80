@@ -19,7 +19,6 @@
 - DevOps:
    - application monitoring practice
    - manual task automation
-   - 
 
 
 ## Purpose of the repository
